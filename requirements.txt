@@ -1,0 +1,11 @@
+transformers>=4.44.2
+torch>=2.4.0
+
+huggingface-hub>=0.24.6
+typing_extensions>=4.12.2
+gguf>=0.10.0
+numpy>=2.1.0
+PyYAML>=6.0.2
+tqdm>=4.66.5
+requests>=2.32.3
+safetensors>=0.4.4
